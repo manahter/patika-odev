@@ -1,0 +1,2 @@
+# patika-odev
+Patika Ödevleri
