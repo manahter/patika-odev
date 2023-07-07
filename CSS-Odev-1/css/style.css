@@ -1,0 +1,63 @@
+.nav-head {
+    background: linear-gradient(0deg,rgba(251,105,0,0.5) 0%, rgba(149,217,231,0.75) 100%);
+    text-align: center;
+    line-height: 3;
+    color: black;
+    margin: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content-head {
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(251,105,0,0.5) 100%);
+    line-height: 5;
+    color: black;
+    margin: 0%;
+}
+
+body {
+    margin: 0%;
+}
+
+article {
+    margin: 20px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(251,105,0,0.5);
+    margin: 0%;
+}
+
+nav ul{
+    text-align: center;
+    margin: 0%;
+}
+
+nav ul li {
+    display: inline-block;
+    font-weight: 600;
+    padding: 20px;
+}
+
+nav ul li a {
+    font-family: sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+ul, ol {
+    text-align: center;
+
+}
+
+li {
+    list-style-position: inside;
+}
+
+.product-img {
+    width: 200px;
+    height: 200px;
+}
