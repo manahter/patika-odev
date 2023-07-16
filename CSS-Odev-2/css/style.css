@@ -1,0 +1,43 @@
+.logo {
+    display: block;
+    width: 351px;
+    margin: 20px auto;
+}
+
+.search_container {
+    width: 100%;
+    margin: 20pxauto;
+    background-color: #eee;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+p {
+    margin: 0;
+    text-align: center;
+}
+
+input {
+    width: 25%;
+}
+
+table {
+    width: 100%;
+}
+
+.col1 {
+    background-color: #7EE5DA;
+}
+
+.col2 {
+    background-color: #70CCC2;
+}
+
+.col3 {
+    background-color: #70CCC2;
+}
+
+td {
+    margin: auto;
+    text-align: center;
+}
