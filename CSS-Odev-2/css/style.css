@@ -1,12 +1,12 @@
 .logo {
     display: block;
-    width: 351px;
+    width: 25%;
     margin: 20px auto;
 }
 
 .search_container {
     width: 100%;
-    margin: 20pxauto;
+    margin: 20px auto;
     background-color: #eee;
     text-align: center;
     padding-bottom: 20px;
